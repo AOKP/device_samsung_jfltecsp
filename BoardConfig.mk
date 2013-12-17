@@ -30,6 +30,6 @@
 TARGET_OTA_ASSERT_DEVICE := jfltecsp
 
 # Kernel
-TARGET_KERNEL_CONFIG    := jf_usc_defconfig
+TARGET_KERNEL_CONFIG    := jf_cri_defconfig
 
 
